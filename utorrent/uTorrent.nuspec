@@ -2,7 +2,7 @@
 <package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <metadata>
     <id>uTorrent</id>
-    <title>µTorrent</title>
+    <title>uTorrent</title>
     <version>3.3.1</version>
     <authors>BitTorrent, Inc.</authors>
     <owners>BitTorrent, Inc.</owners>
