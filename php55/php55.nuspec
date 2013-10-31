@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>php54</id>
-    <version>5.4.21</version>
-    <title>PHP 5.4</title>
+    <id>php55</id>
+    <version>5.5.5</version>
+    <title>PHP 5.5</title>
     <authors>PHP Authors</authors>
     <owners>mtolmacs</owners>
     <licenseUrl>http://us.php.net/license/</licenseUrl>
     <projectUrl>http://www.php.net/</projectUrl>
-    <iconUrl>https://raw.github.com/tolmi/nugetpackages/master/php54/PHP.png</iconUrl>
+    <iconUrl>https://raw.github.com/tolmi/nugetpackages/master/php55/PHP.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>PHP is an HTML-embedded scripting language. Much of its syntax is borrowed from C, Java and Perl with a couple of unique PHP-specific features thrown in. The goal of the language is to allow web developers to write dynamically generated pages quickly.</description>
     <summary>PHP - widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.</summary>
