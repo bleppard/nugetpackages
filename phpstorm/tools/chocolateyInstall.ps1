@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'phpstorm' 'exe' '/S' 'http://download-ln.jetbrains.com/webide/PhpStorm-6.0.2.exe'
+Install-ChocolateyPackage 'phpstorm' 'exe' '/S' 'http://download-ln.jetbrains.com/webide/PhpStorm-7.0.exe'
