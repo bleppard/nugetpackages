@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>php55</id>
-    <version>5.5.5</version>
+    <version>5.5.6</version>
     <title>PHP 5.5</title>
     <authors>PHP Authors</authors>
     <owners>mtolmacs</owners>
