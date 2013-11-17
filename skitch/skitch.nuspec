@@ -3,14 +3,15 @@
   <metadata>
     <id>skitch</id>
     <title>Skitch</title>
-    <version>1.0.2.0</version>
+    <version>2.3.0.10</version>
     <authors>Evernote</authors>
     <owners>Evernote</owners>
+    <iconUrl>https://raw.github.com/tolmi/nugetpackages/master/skitch/logo.png</iconUrl>
     <summary>Create clear screenshots, annotate them before you share on Evernote or save to disk.</summary>
     <description>Get your point across with fewer words using annotation, shapes and sketches, so that your ideas become reality faster. 
 | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
     <projectUrl>http://evernote.com/skitch</projectUrl>
-    <tags>PHP IDE JetBrains</tags>
+    <tags>screenshot image evernote skitch</tags>
     <licenseUrl>http://evernote.com/legal/tos.php</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
   </metadata>
