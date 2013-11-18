@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'skitch' 'exe' '/S' 'http://cdn1.evernote.com/Skitch/win32/skitchsetup-2.3.0.10.exe'
+Install-ChocolateyPackage 'skitch' 'exe' '--mode unattended' 'http://cdn1.evernote.com/Skitch/win32/skitchsetup-2.3.0.10.exe'
